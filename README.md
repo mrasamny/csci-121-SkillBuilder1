@@ -1,4 +1,5 @@
 <div style="text-align:center;"><img src="src/main/resources/pemacs-logo.png"></div>
+
 # Elements of Computer Programming II (CSCI-121)
 
 ## Skill Builder 1 - Input, Output, Variables, and Casting</h2>
