@@ -41,7 +41,7 @@ Enter a floating-point number:
 ```
 
 #### Mathematical Expressions
-Calculate the mathematical expression ![eq1](https://latex.codecogs.com/svg.latex?\frac{4}{3}2^{\big(\frac{\sqrt{5}}{spice^3}\big)}) and output the result so that the output looks like:
+Calculate the mathematical expression $\frac{4}{3}2^{\big(\frac{\sqrt{5}}{spice^3}\big)}$ and output the result so that the output looks like:
 
 
 ```
