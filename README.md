@@ -58,8 +58,8 @@ You should use an assignment statement to store the value of the expression.
 
 ---
 
-**Please Note:** The expression ![eq1](https://latex.codecogs.com/svg.latex?\frac{4}{3}2^{\big(\frac{\sqrt{5}}{spice^3}\big)}) has the number 2 raised 
-to the power of the value calculated from the expression ![eq2](https://latex.codecogs.com/svg.latex?\big(\frac{\sqrt{5}}{spice^3}\big)).
+**Please Note:** The expression $\frac{4}{3}2^{\big(\frac{\sqrt{5}}{spice^3}\big)}$ has the number 2 raised 
+to the power of the value calculated from the expression $\big(\frac{\sqrt{5}}{spice^3}\big)$.
 
 ---
 
