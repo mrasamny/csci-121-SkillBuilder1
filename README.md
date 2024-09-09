@@ -67,7 +67,7 @@ to the power of the value calculated from the expression $\big(\frac{\sqrt{5}}{s
 #### Converting to Integer
 
 convert the value of the expression,
-![eq1](https://latex.codecogs.com/svg.latex?\frac{4}{3}2^{\big(\frac{\sqrt{5}}{spice^3}\big)})
+$\frac{4}{3}2^{\big(\frac{\sqrt{5}}{spice^3}\big)}$
 
 for which you calculated previously to the nearest hundredth place so that the output looks as follows (**NOTE:** *Do NOT use* `printf` *to implement this part*):
 
@@ -107,7 +107,7 @@ Wall area: 180 square feet
 Paint needed: 0.51 gallons
 ```
 
-3. Extend to also calculate and output the number of 1 gallon cans needed to paint the wall. Hint: Use a math function to round up to the nearest gallon. (2 pts)
+3. Extend to also calculate and output the number of 1-gallon cans needed to paint the wall. Hint: Use a math function to round up to the nearest gallon. (2 pts)
 
 ```
 Enter wall height (feet):
